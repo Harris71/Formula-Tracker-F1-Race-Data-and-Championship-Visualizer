@@ -42,7 +42,7 @@ F1-Formula-Tracker/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Harris71/F1-Formula-Tracker.git
+git clone https://github.com/Harris71/Formula-Tracker-F1-Race-Data-and-Championship-Visualizer.git
 cd F1-Formula-Tracker
 ```
 
